@@ -141,6 +141,7 @@
 .formulario__mensagem--sucesso,
 .formulario__camera--exibir {
     display: block;
+    transform: scaleX(-1);
 }
 
 @media screen and (max-width: 900px) {
